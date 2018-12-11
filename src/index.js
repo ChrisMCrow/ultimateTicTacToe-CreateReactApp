@@ -19,7 +19,7 @@ const render = (Component) => {
         </HashRouter>,
       document.getElementById('root')
     );
-  };
+  }; 
   
   render(App);
   
